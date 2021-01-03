@@ -4,7 +4,7 @@ university assignment
 ### Admin Login details
 <table>
   <tr><td>admin@gmail.com</td>
-    <td>1234567890</td>
+    <td>admin</td>
   </tr>
   </table>
 
