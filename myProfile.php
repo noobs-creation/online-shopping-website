@@ -121,7 +121,7 @@ $user_id=$_SESSION['uid'];
                     
                     <div class="col-md-6">
                         <div class="profile-head">
-                                    <h5>
+                                    <h3>
                                         
                                         <?php
                                           
@@ -143,7 +143,7 @@ $user_id=$_SESSION['uid'];
 
 
                                         ?>
-                                    </h5>
+                                    </h3>
                                     
                             
                         </div>
