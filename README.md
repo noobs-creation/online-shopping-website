@@ -2,7 +2,10 @@
 university assignment 
 
 ### Admin Login details
-sid@gmail.com
-8777852961
+<table>
+  <tr><td>admin@gmail.com</td>
+    <td>1234567890</td>
+  </tr>
+  </table>
 
 ### Import .sql file in database from database folder and create database named ecommerce
